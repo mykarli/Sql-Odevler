@@ -1,2 +1,2 @@
 # Sql-Odevler
-Patik
+Patika
